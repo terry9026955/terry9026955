@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terry Chen
-- 👀 I’m interested in Computer Science 
+- 👀 I’m interested in Computer Science & Language Learning & Whisky Driking~
 - 🌱 I’m currently learning Data Science  
 - 💞️ I’m a master student of NTUT(National Taipei University of Technology)
 - 📫 Email: terry9026955@gmail.com
