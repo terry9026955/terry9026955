@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Terry Chen
-- 👀 I’m interested in Computer Science & Language Learning & Whisky Driking~
-- 🌱 I’m currently learning Data Science  
-- 💞️ I’m a master student of NTUT(National Taipei University of Technology)
+- 👋 Hi, I’m Terry Chen (Ting-Hao Chen)
+- 👀 I’m a master student of National Taipei University of Technology (NTUT)
+- 🌱 I’m interested in Software Develop and Data Science  
+- 💞️ Major in Computer Science & Information Engineering
 - 📫 Email: terry9026955@gmail.com
 
 <!---
